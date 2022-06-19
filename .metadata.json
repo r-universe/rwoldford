@@ -1,0 +1,10 @@
+[
+  {
+    "package": "eikosograms",
+    "oncran": true
+  },
+  {
+    "package": "qqtest",
+    "oncran": true
+  }
+]
