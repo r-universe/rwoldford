@@ -8,6 +8,11 @@
 	url = https://github.com/rwoldford/eikosograms
 	shallow = true
 	registered = true
+[submodule "loon"]
+	path = loon
+	url = https://github.com/cran/loon
+	shallow = true
+	registered = true
 [submodule "qqtest"]
 	path = qqtest
 	url = https://github.com/rwoldford/qqtest
