@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "eikosograms"]
 	path = eikosograms
 	url = https://github.com/rwoldford/eikosograms
-	shallow = true
-	registered = true
 [submodule "loon"]
 	path = loon
 	url = https://github.com/cran/loon
-	shallow = true
-	registered = true
 [submodule "qqtest"]
 	path = qqtest
 	url = https://github.com/rwoldford/qqtest
-	shallow = true
-	registered = true
